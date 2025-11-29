@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# Environment / secrets
+.env
+.env.*
+*.env
+*.key
+*.pem
+.env.txt
+
+# Chroma local storage
+.chroma/
