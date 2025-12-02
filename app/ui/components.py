@@ -15,3 +15,4 @@ def card(title: str, body: str, badge: str | None = None) -> None:
         st.markdown(top_line, unsafe_allow_html=True)
     st.markdown(body)
     st.markdown("</div>", unsafe_allow_html=True)
+

@@ -16,3 +16,4 @@ Generate platform-specific content ideas, captions and a 7-day content plan.
 Respect the requested tone (fun, professional, luxury, etc.).
 Use bullet points and simple language.
 """
+

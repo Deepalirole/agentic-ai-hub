@@ -10,3 +10,4 @@ logger = logging.getLogger("sales_ai_hub")
 
 def log_agent_interaction(agent_name: str, prompt: str, response: str) -> None:
     logger.info("Agent: %s\nPrompt: %s\nResponse: %s", agent_name, prompt, response[:500])
+

@@ -48,3 +48,4 @@ def load_sample_products() -> List[Dict]:
             "tags": ["health", "productivity", "desk"],
         },
     ]
+

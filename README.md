@@ -89,3 +89,4 @@ This app provides three AI assistants:
 - Error handling is kept friendly: if configuration is missing or a call fails, Streamlit will surface readable errors in the UI and logs.
 
 
+
